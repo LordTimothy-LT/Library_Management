@@ -1,0 +1,46 @@
+.hero_main{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 90%;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 5%;
+    padding-top: 3%;
+}
+
+.hero_left{
+    color: whitesmoke;
+    justify-content: space-between; 
+    width: 100%;
+}
+
+.hero_ptag{
+    font-size: 22px;
+    font-weight: bold;
+    padding-left: 24%;
+}
+
+.hero_ptag_two{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 10%;
+}
+
+.hero_ptag_three{
+    padding-left: 10%;
+    font-size: large;
+    font-weight: normal;
+}
+
+
+.hero_right{
+    width: 400px;
+    height: 520px;
+    background-size: cover;
+    background-image: url(../../../assets/library.jpg);
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+

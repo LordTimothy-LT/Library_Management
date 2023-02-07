@@ -1,0 +1,30 @@
+.footer_main{
+    background-color: rgb(17, 17, 17);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 20%;
+    height: 280px;
+    padding-left: 6%;
+}
+
+.footer_ptag{
+    color: rgb(47, 47, 194);
+}
+
+.footer_ptag_two{
+    color: whitesmoke;
+}
+
+.footer_left_ptag{
+    width: 100%;
+}
+
+
+.footer_right_ptag{
+    width: 60%;
+}
+
+
+
+
+

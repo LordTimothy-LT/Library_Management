@@ -1,0 +1,30 @@
+.navbar_body{
+    background-color: rgb(12, 12, 102);
+    text-align: center;
+    padding-inline-start: 5%;
+    padding-inline-end: 5%;
+    width: 90%;
+    height: 5%;
+    border-width: 2px;
+    border-radius: 20px 20px 20px 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+
+.left_navbar_side{
+    color: rgb(190, 190, 190);
+    display: flex;
+    column-gap: 40px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.right_navbar_side{
+    color: rgb(190, 190, 190);
+    display: flex;
+    align-items: center;
+    align-content: center;
+    column-gap: 30px;
+    font-size: large;
+}
